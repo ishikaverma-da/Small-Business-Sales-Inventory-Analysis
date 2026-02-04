@@ -1,0 +1,51 @@
+product_id,product_name,category,cost_price,selling_price,stock_quantity
+1,Book A,Books,100,150,50
+2,Book B,Books,120,180,60
+3,Notebook,Stationery,30,50,200
+4,Pen,Stationery,10,20,500
+5,Headphones,Electronics,500,700,30
+6,Charger,Electronics,200,350,40
+7,Backpack,Accessories,300,450,25
+8,Mouse,Electronics,150,250,35
+9,Book C,Books,110,160,55
+10,Book D,Books,130,190,45
+11,Pencil,Stationery,5,15,400
+12,Earphones,Electronics,250,400,20
+13,Marker,Stationery,20,35,150
+14,USB Cable, Electronics,100,150,60
+15,Book E,Books,140,200,50
+16,Book F,Books,125,180,40
+17,Stapler,Stationery,50,80,70
+18,Desk Lamp,Accessories,400,550,15
+19,Water Bottle,Accessories,100,150,60
+20,Notebook B,Stationery,35,55,180
+21,Book G,Books,150,210,45
+22,Book H,Books,160,220,50
+23,Pen Set,Stationery,50,90,120
+24,Keyboard,Electronics,400,600,25
+25,Mouse Pad,Accessories,50,80,100
+26,Book I,Books,170,230,40
+27,Book J,Books,180,240,35
+28,Highlighter,Stationery,15,30,250
+29,Charger B,Electronics,220,370,20
+30,Notebook C,Stationery,40,60,150
+31,Book K,Books,190,250,30
+32,Book L,Books,200,260,25
+33,Pen C,Stationery,12,22,200
+34,Headphones B,Electronics,550,750,15
+35,Notebook D,Stationery,45,65,140
+36,Book M,Books,210,270,20
+37,Backpack B,Accessories,350,500,20
+38,Mouse B,Electronics,160,260,25
+39,Book N,Books,220,280,15
+40,Book O,Books,230,290,20
+41,Marker B,Stationery,18,33,130
+42,USB Cable B,Electronics,110,160,50
+43,Book P,Books,240,300,25
+44,Book Q,Books,250,310,20
+45,Pencil B,Stationery,6,16,180
+46,Desk Lamp B,Accessories,420,580,10
+47,Water Bottle B,Accessories,110,160,50
+48,Book R, Books,260,320,15
+49,Book S,Books,270,330,10
+50,Pen Set B,Stationery,55,95,100
