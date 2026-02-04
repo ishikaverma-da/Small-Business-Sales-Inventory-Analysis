@@ -1,6 +1,6 @@
 # Small-Business-Sales-Inventory-Analysis
 SQL &amp; Power BI Project analyzing sales, inventory, customer ,and product data
-# Small Business Sales Analysis
+
 
 ## Project Overview
 This project analyzes small business sales data to identify trends, customer behavior, and product performance.
