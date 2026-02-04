@@ -33,7 +33,7 @@ All raw datasets are stored in the `data` folder:
 
 ## Power BI Dashboard
 The Power BI dashboard can be downloaded from the `powerbi` folder:
-[Click here to download the Power BI dashboard](PASTE_YOUR_PBIX_LINK_HERE)
+[Click here to download the Power BI dashboard](https://github.com/ishikaverma-da/Small-Business-Sales-Inventory-Analysis/blob/main/powerbi/Power%20BI%20Dashboard.pbix)
 
 > Note: The dashboard file is in `.pbix` format and can be opened using Power BI Desktop.
 
@@ -41,7 +41,7 @@ The Power BI dashboard can be downloaded from the `powerbi` folder:
 
 ## Project Presentation
 The project presentation is available in PDF format:
-[Click here to view the project presentation](PASTE_YOUR_PDF_LINK_HERE)
+[Click here to view the project presentation](https://github.com/ishikaverma-da/Small-Business-Sales-Inventory-Analysis/blob/main/powerbi/Project%20presentation.pdf)
 
 ---
 
